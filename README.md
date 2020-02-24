@@ -1,5 +1,5 @@
 # qtest
-Computes the probability that the ouput of a quantum citcuit is correct.
+Computes the probability that the ouput of a quantum circuit is correct.
 
 ## Requirements
 - `python >= 3`
